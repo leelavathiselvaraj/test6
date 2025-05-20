@@ -1,1 +1,2 @@
 hi hello this is our new project
+this commit was done by faridha and gayathri
